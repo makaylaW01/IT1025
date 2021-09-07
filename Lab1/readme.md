@@ -1,10 +1,10 @@
 ## Your Name / Date
-
+Makayla white 09/06/21
 ## Executive Summary
 This is an example, please delete and create your own professional summary:
 The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
 
-## Information System Components
+## Information System Components: hardware, software, data, people, and processes. 
 
 ## GitHub
 ### Client - Server Architecture
