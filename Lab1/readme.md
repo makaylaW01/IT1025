@@ -13,8 +13,7 @@ people: system analysis or developer
 ### Client - Server Architecture allows users to connecet with local area network from the computer 
 
 ### Cloud Computing- remote servers or process data
-q
+
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+In conclusion github was a little hard for me in the beginning to understand how the lab works.Reading the chapter of how it all started with the conputer and being able share data with the world. Also connect with the world wide web an being able to go on differe compamc website and learning how the were established.Overall the focus on the main components of technology ,peopl , and something that is very important is understanding process of everything. Finally , after reading the chapter now I understand how github and different software works for different buisnessess.
 
